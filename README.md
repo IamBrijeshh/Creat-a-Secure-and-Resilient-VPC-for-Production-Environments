@@ -1,4 +1,4 @@
-# 🚀 Creating-a-Secure-and-Resilient-VPC-for-Production-Environments
+# 🚀 How to create VPC with public-private subnet that you can use for servers in a production environment?
 Looking to establish a robust infrastructure for your production environment? Let's walk through the steps to create a Virtual Private Cloud (VPC) with public-private subnets, ensuring both security and resilience.
 
 1. Define your VPC Architecture:
